@@ -1,0 +1,37 @@
+Name: Zoey
+Rating: 3
+Message: Not bad
+---
+Name: Zoey
+Rating: 3
+Message: Good Recommended i like charkuey tiaw
+---
+Name: Wind See
+Rating: 1
+Message: Yuckkkk the luoshifen
+---
+Name: MingYu
+Rating: 4
+Message: Nice
+
+---
+Name: Sin Yen
+Rating: 5
+Message: I like all of them!!!!!
+---
+Name: CS
+Rating: 5
+Message: Its my taste!!
+---
+Name: KO
+Rating: 5
+Message: GOOD!
+---
+Name: YU
+Rating: 3
+Message: ok
+---
+Name: vg
+Rating: 5
+Message: yes good
+---
